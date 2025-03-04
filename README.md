@@ -7,7 +7,7 @@
 Literally uses 1Gb of your ram cuz the devs are a$$ and cant render for sh1 (Unless their obf broke it which was somehow a$$ too)
 
 # How To Use
-1. Download [FrostWare.zip]() & [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
+1. Download [FrostWare.zip](https://github.com/WalmartSolutions/FrostWare-5.2.0/raw/refs/heads/main/FrostWare.zip) & [Bloxstrap](https://github.com/bloxstraplabs/bloxstrap)
 2. Unzip FrostWare.zip.
 3. Start Roblox Bloxstrap.
 4. Run FrostWare-Cracked.exe.
